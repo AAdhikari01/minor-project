@@ -1,0 +1,24 @@
+# Data Folder
+data/
+
+# Env Folder
+.venvprj/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
