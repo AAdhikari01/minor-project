@@ -9,3 +9,5 @@
 ### train.csv - https://arxiv.org/abs/2510.22874
 
 ### Separated_csv_1/filtered_output_human.csv - https://sites.google.com/site/naistlang8corpora
+### Ivy_essays-https://huggingface.co/datasets/artfultom/human-essays/tree/main-8912 
+### Wiki-https://huggingface.co/datasets/ltg/en-wiki-paraphrased/tree/main.
